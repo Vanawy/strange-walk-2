@@ -1,0 +1,3 @@
+interface Item {
+    pick(): void;
+}

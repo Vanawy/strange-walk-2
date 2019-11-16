@@ -1,0 +1,3 @@
+interface Ineractive {
+    interact(): void;
+}
